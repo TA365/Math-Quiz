@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         return value;
     }
     /***
-     * questionThree method will check question Three value
+     * questionThree method will check question Three
      */
     public int questionThree(){
         int value;
