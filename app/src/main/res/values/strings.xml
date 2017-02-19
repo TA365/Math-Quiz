@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="title">Test your math score </string>
+    <string name="enter_name">Enter your name </string>
+    <string name="q_one">Q.1 What is the value of 2*4?</string>
+    <string name="q_two">Q.2 Which of these expression is correct?</string>
+    <string name="q_three">Q.3 Which one is not number?</string>
+    <string name="q_four">Q.4 Find the value of 1-9+17?</string>
+    <string name="q_five">Q.5 Find the value of 1-1+10?</string>
+    <string name="button_text">Submit your Answer</string>
+
+    <!--Value shows in Question one radio button-->
+    <string name="radio_one_a">8</string>
+    <string name="radio_one_b">2</string>
+    <string name="radio_one_c">7</string>
+
+    <!--Value shows in Question two radio button-->
+    <string name="radio_two_a">2+2 = 4</string>
+    <string name="radio_two_b">8-1 = 9</string>
+    <string name="radio_two_c">8-4 = 4</string>
+
+    <!--Value shows in Question three radio button-->
+    <string name="radio_three_a">0</string>
+    <string name="radio_three_b">1</string>
+    <string name="radio_three_c">o</string>
+
+    <!--Value shows in Question four radio button-->
+    <string name="radio_four_a">4</string>
+    <string name="radio_four_b">9</string>
+    <string name="radio_four_c">5</string>
+
+    <!--Value shows in Question five radio button-->
+    <string name="radio_five_a">10</string>
+    <string name="radio_five_b">11</string>
+    <string name="radio_five_c">12</string>
+
+
+</resources>
